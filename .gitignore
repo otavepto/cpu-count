@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+.vs/
+cpu_count/*.vcxproj.user
+cpu_count/*.user
+cpu_count/release/
+cpu_count/debug/
+release/
+debug/
+
